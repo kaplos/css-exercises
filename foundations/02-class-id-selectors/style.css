@@ -1,0 +1,17 @@
+.pinkboarder{
+    background-color: pink;
+    font-family: Verdana,DejaVu Sans,sans-serif;
+
+  }
+  #Three{
+    color: blue;
+    font-size: 36px;
+  }
+  .add{
+    font-size: 24px;
+  }
+  #Fourth{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+  }
